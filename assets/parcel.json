@@ -1,0 +1,5 @@
+{
+    "sounds" : [
+        { "id" : "assets/test.mp3", "name" : "test", "is_stream" : false}
+    ]
+}
